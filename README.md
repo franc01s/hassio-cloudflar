@@ -168,7 +168,9 @@ http://homeassistant.local:8123
   
   ```
 
-  ```
-  ```
+- Troubleshoot
 
+  As a new container is installed in Cassio Ecosystem, you can just ignore.
+  ![pic7](media/pic7.png)
+  
   
