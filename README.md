@@ -75,7 +75,7 @@ http://homeassistant.local:8123
 
   https://developers.home-assistant.io/docs/operating-system/debugging/
 
-  Create USB drive formatted with authorized_keys, then put the same key used in previous step
+  Create USB drive formatted with authorized_keys in root directory, then put the same key used in previous step
 
   
 
@@ -170,7 +170,7 @@ http://homeassistant.local:8123
 
 - Troubleshoot
 
-  As a new container is installed in Cassio Ecosystem, you can just ignore.
+  As a new container is installed in Hassio Ecosystem, supervisor complains about it, you can just ignore.
   ![pic7](media/pic7.png)
   
   
